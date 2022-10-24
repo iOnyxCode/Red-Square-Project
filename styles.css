@@ -96,3 +96,25 @@ li {
 ul {
     margin-top: 175px;
 }
+
+@media all and (max-width: 991px) {
+    
+    #h1 {
+        display: flex;
+        justify-content: sta;
+    }
+
+    h1 {
+        font-size: 80px;
+        text-align: start;
+    }
+
+    h2 {
+        font-size: 35px;
+        text-align: left;
+    }
+
+    p{
+        font-size: 20px;
+    }
+}
