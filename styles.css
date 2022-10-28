@@ -119,6 +119,13 @@ ul {
     }
 }
 
+@media all and (max-width: 767px) {
+    h1 {
+        font-size: 70px;
+        
+    }
+}
+
 @media all and (max-width: 576px){
     h1 {
         font-size: 65px;
@@ -136,3 +143,8 @@ ul {
         font-size: 16px;
     }
 }
+
+
+
+
+
